@@ -1,1 +1,1 @@
-# AI-Real-Time-Image-Identification
+# AI-real-time-image-identification
